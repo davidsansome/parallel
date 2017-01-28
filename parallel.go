@@ -1,4 +1,4 @@
-package main
+package parallel
 
 import (
 	"golang.org/x/net/context"
